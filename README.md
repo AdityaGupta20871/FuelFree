@@ -33,18 +33,24 @@ https://github.com/AdityaGupta20871/FuelFree/assets/103377205/a66fc6b7-0c4e-4cd9
 
 Add a `.env` file to store your `API_KEY` from [cohere](https://cohere.com/) used to access the chatbot.
 
-python main.py
+```python main.py```
 
 Usage
 Navigate to the login page and enter your credentials to access the dashboard.
+
 Explore different sections of the application including analytics, activity recommendations, and the chatbot.
+
 Use the chatbot to ask questions or get recommendations for eco-friendly activities.
+
 Track your carbon footprint and explore fossil fuel consumption data for different regions.
+
 Contributing
+
 Contributions to FuelFree are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 Credits
-FuelFree is developed by [Aditya Gupta] and contributors. It utilizes libraries including taipy, pandas, and requests for data processing and GUI development.
+
+FuelFree is developed by Aditya Gupta. It utilizes libraries including taipy, pandas, and requests for data processing and GUI development.
 
 License
 This project is licensed under the MIT License.
