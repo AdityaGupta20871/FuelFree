@@ -9,6 +9,16 @@ FuelFree is a graphical user interface (GUI) application designed to promote eco
 ## Demo
 https://github.com/AdityaGupta20871/FuelFree/assets/103377205/a66fc6b7-0c4e-4cd9-8c4d-5e59a299b46e
 
+![Screenshot (100)](https://github.com/AdityaGupta20871/FuelFree/assets/103377205/85ffb8af-bc79-41d6-9638-1d285aa3b7e0)
+![Screenshot (101)](https://github.com/AdityaGupta20871/FuelFree/assets/103377205/b41bcf79-5c90-4e2b-8a2b-7d5705b6c0e6)
+![Screenshot (102)](https://github.com/AdityaGupta20871/FuelFree/assets/103377205/c9ab8e9b-8cb0-483f-a4b9-c890e992b6c6)
+![Screenshot (103)](https://github.com/AdityaGupta20871/FuelFree/assets/103377205/a24a8f84-4638-4753-b994-ec11cad6bea2)
+![Screenshot (104)](https://github.com/AdityaGupta20871/FuelFree/assets/103377205/a938bba6-f0ab-4a0d-9f76-f0caa03ad1d4)
+![Screensho![Screenshot (106)](https://github.com/AdityaGupta20871/FuelFree/assets/103377205/b355322f-4666-4194-b3c1-da06374f65a0)
+![Screenshot (107)](https://github.com/AdityaGupta20871/FuelFree/assets/103377205/205a9594-66c6-41ea-a0e0-33dc56fec9b6)
+![Screenshot (108)](https://github.com/AdityaGupta20871/FuelFree/assets/103377205/b6baadee-c6c3-4676-ae9b-433e2e842200)
+
+
 ## Features
 
 - **Dashboard:** Visualizes fossil fuel consumption data by region and per capita.
