@@ -10,8 +10,8 @@ import pandas as pd
 import os
 import requests
 from fossildata import dataset_fossil_fuels_gdp
-from pages.carbon_footprint import carbon_footprint_page
-from pages.compare_countries import compare_countries_page
+from pages.carbonfootprint import carbonfootprint_page
+from pages.carbonemissions import carbonemissionspage
 from pages.oddeven import oddEvencontent
 from pages.greenzone import greenZonecontent
 from pages.transport import publicTransportcontent
@@ -98,6 +98,7 @@ def updatePassword(state):
     print("Current password is ", password)
 
 loginContent = """
+<img style="margin-bottom: 20px; margin-top: 15px; width: 200px; height: auto; margin-right: 20px;" src='images/FuelFree.png' alt="Description of the image"></img>
 <h1>Join FuelFree Today</h1>
 <p>Username: </p>
 <|{user}|input|on_change=updateUser|>
@@ -220,8 +221,8 @@ pages = {
     "/": "<|menu|lov={page_names}|on_action=menu_action|>",
     "login": loginContent,
     "dashboard": dashboardpage,
-    'compare_countries': compare_countries_page,
-    'carbon_footprint': carbon_footprint_page,
+    'carbonemissionspage': carbonemissionspage,
+    'carbonfootprint_page': carbonfootprint_page,
     "OddEven": oddEvencontent,
     "PublicTransport": publicTransportcontent,
     "ElectricVehicle": greenZonecontent,
@@ -245,5 +246,5 @@ if __name__ == "__main__":
     gui.run(
         run_browser=False,  # Ensure the browser is not opened automatically
         use_reloader=True,  # Set to True if you are in development
-        title="Test",       # Set the title of the GUI window
+        title="FuelFree",       # Set the title of the GUI window
     )
