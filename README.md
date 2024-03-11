@@ -1,4 +1,7 @@
-![FuelFree](https://github.com/AdityaGupta20871/FuelFree/assets/103377205/61c1370e-9de7-4b44-8b6d-8ddb78c9f386)
+<div align="center">
+    <img src="https://github.com/AdityaGupta20871/FuelFree/assets/103377205/61c1370e-9de7-4b44-8b6d-8ddb78c9f386" alt="FuelFree width="400" height="400">
+</div>
+
 # FuelFree
 
 FuelFree is a graphical user interface (GUI) application designed to promote eco-friendly activities and raise awareness about carbon emissions. It provides users with tools to explore data, track their carbon footprint, engage in environmentally friendly practices, and interact with a chatbot for recommendations.
@@ -20,14 +23,18 @@ https://github.com/AdityaGupta20871/FuelFree/assets/103377205/a66fc6b7-0c4e-4cd9
 
    ```bash
    git clone https://github.com/yourusername/FuelFree.git
-Install dependencies:
+
+2.**Install dependencies:**
 
 
-pip install -r requirements.txt
-Run the application:
+```pip install -r requirements.txt```
 
+3.**Run the application:**
+
+Add a `.env` file to store your `API_KEY` from [cohere](https://cohere.com/) used to access the chatbot.
 
 python main.py
+
 Usage
 Navigate to the login page and enter your credentials to access the dashboard.
 Explore different sections of the application including analytics, activity recommendations, and the chatbot.
@@ -37,7 +44,7 @@ Contributing
 Contributions to FuelFree are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 Credits
-FuelFree is developed by [Your Name] and contributors. It utilizes libraries including taipy, pandas, and requests for data processing and GUI development.
+FuelFree is developed by [Aditya Gupta] and contributors. It utilizes libraries including taipy, pandas, and requests for data processing and GUI development.
 
 License
 This project is licensed under the MIT License.
