@@ -1,10 +1,10 @@
 ![FuelFree](https://github.com/AdityaGupta20871/FuelFree/assets/103377205/61c1370e-9de7-4b44-8b6d-8ddb78c9f386)
 # FuelFree
 
-
 FuelFree is a graphical user interface (GUI) application designed to promote eco-friendly activities and raise awareness about carbon emissions. It provides users with tools to explore data, track their carbon footprint, engage in environmentally friendly practices, and interact with a chatbot for recommendations.
 
 ## Demo
+https://github.com/AdityaGupta20871/FuelFree/assets/103377205/a66fc6b7-0c4e-4cd9-8c4d-5e59a299b46e
 
 ## Features
 
